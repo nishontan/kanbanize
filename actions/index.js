@@ -1,4 +1,5 @@
 module.exports = {
   labeled: require ('./labeled'),
-  unlabeled: require('./unlabeled')
+  unlabeled: require('./unlabeled'),
+  push: require('./push'),
 }
